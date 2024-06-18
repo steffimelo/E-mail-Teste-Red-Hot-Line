@@ -1,0 +1,74 @@
+<mj-class name="p-4" padding="4px" />
+<mj-class name="pt-4" padding-top="4px" />
+<mj-class name="pb-4" padding-button="4px" />
+<mj-class name="pr-4" padding-right="4px" />
+<mj-class name="pl-4" padding-left="4px" />
+<mj-class name="ph-4" padding-right="4px" padding-left="4x" />
+<mj-class name="pv-4" padding-top="4px" padding-botton="4px" />
+
+<mj-class name="p-8" padding="8px" />
+<mj-class name="pt-8" padding-top="8px" />
+<mj-class name="pb-8" padding-button="68px" />
+<mj-class name="pr-8" padding-right="8px" />
+<mj-class name="pl-8" padding-left="8px" />
+<mj-class name="ph-8" padding-right="8px" padding-left="8px" />
+<mj-class name="pv-8" padding-top="8px" padding-botton="8px" />
+
+<mj-class name="p-16" padding="16px" />
+<mj-class name="pt-16" padding-top="16px" />
+<mj-class name="pb-16" padding-button="16px" />
+<mj-class name="pr-16" padding-right="16px" />
+<mj-class name="pl-16" padding-left="16px" />
+<mj-class name="ph-16" padding-right="16px" padding-left="16px" />
+<mj-class name="pv-16" padding-top="16px" padding-botton="16px" />
+
+<mj-class name="p-24" padding="24px" />
+<mj-class name="pt-24" padding-top="24px" />
+<mj-class name="pb-24" padding-button="24px" />
+<mj-class name="pr-24" padding-right="24px" />
+<mj-class name="pl-24" padding-left="24px" />
+<mj-class name="ph-24" padding-right="24px" padding-left="24px" />
+<mj-class name="pv-24" padding-top="24px" padding-botton="24px" />
+
+<mj-class name="p-64" padding="64px" />
+<mj-class name="pt-64" padding-top="64px" />
+<mj-class name="pb-64" padding-button="64px" />
+<mj-class name="pr-64" padding-right="64px" />
+<mj-class name="pl-64" padding-left="64px" />
+<mj-class name="ph-64" padding-right="64px" padding-left="64px" />
+<mj-class name="pv-64" padding-top="64px" padding-botton="64px" />
+
+<mj-class name="p-72" padding="72px" />
+<mj-class name="pt-72" padding-top="72px" />
+<mj-class name="pb-72" padding-button="72px" />
+<mj-class name="pr-72" padding-right="72px" />
+<mj-class name="pl-72" padding-left="72px" />
+<mj-class name="ph-72" padding-right="72px" padding-left="72px" />
+<mj-class name="pv-72" padding-top="72px" padding-botton="72px" />
+
+<mj-class name="txt-lowercase" text-transform="lowecase" />
+<mj-class name="txt-upercase" text-transform="upercase" />
+<mj-class name="txt-capitalize" text-transform="capitalize" />
+
+<mj-class name="txt-italic" font-style="italic" />
+<mj-class name="txt-bold" font-weight="bold" font-weight="700" />
+
+<mj-class name="txt-small" font-size="16px" line-height="16px" />
+<mj-class name="txt-small--bold" font-size="16px" line-height="16px" font-style="700"/>
+<mj-class name="txt-small--italic" font-size="16px" line-height="16px" font-style="italic"/>
+<mj-class name="txt-small--bold_italic" font-size="16px" line-height="20px" font-style="italic" font-weight="700"/>
+
+<mj-class name="txt-regular" font-size="20px" line-height="24px" />
+<mj-class name="txt-regular--bold" font-size="20px" line-height="24px" font-style="700"/>
+<mj-class name="txt-regular--italic" font-size="20px" line-height="24px" font-style="italic"/>
+<mj-class name="txt-regular--bold_italic" font-size="20px" line-height="24px" font-style="italic" font-weight="700"/>
+
+<mj-class name="txt-large" font-size="20px" line-height="24px" />
+<mj-class name="txt-large--bold" font-size="20px" line-height="24px" font-style="700"/>
+<mj-class name="txt-large--italic" font-size="20px" line-height="24px" font-style="italic"/>
+<mj-class name="txt-large--bold_italic" font-size="20px" line-height="24px" font-style="italic" font-weight="700"/>
+
+<mj-class name="txt-extralarge" font-size="28px" line-height="32px" />
+<mj-class name="txt-extralarge--bold" font-size="28px" line-height="32px" font-style="700"/>
+<mj-class name="txt-extralarge--italic" font-size="28px" line-height="32px" font-style="italic"/>
+<mj-class name="txt-extralarge--bold_italic" font-size="28px" line-height="32px" font-style="italic" font-weight="700"/>

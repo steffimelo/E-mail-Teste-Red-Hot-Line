@@ -1,0 +1,251 @@
+<mjml lang="pt-br">
+  <mj-head>
+      <mj-include path="./config/base.inline.css" 
+                  type="css" 
+                  css-inline="inline" />
+      <mj-include path="./config/base.css" 
+                  type="css" />
+
+                  
+  <mj-style inline="inline">
+    .button-color {
+      color: inherit;
+      text-decoration: none
+    }
+  </mj-style>
+
+
+    <mj-attributes>
+      <mj-all font-family="Poppins, sans-serif" 
+      font-size="16px"
+      padding="0" 
+      margin="0"
+      line-height="20px"
+      font-weight="400"
+      align="center"
+      text-align="center" />
+
+      <mj-social font-size="13px"
+                  icon-size="24px"
+                  mode="horizontal"
+                  inner-padding="0px" />              
+      <mj-social-element text-padding="0 4px 0 4px" />
+
+      <mj-include path="./config/config.mjml" />
+    </mj-attributes>
+
+      <mj-raw>
+        <meta name="supported-color-schemes"
+              content="light ">
+      <script type="text/javascript"
+                  src="">
+      </script>
+    </mj-raw>
+</mj-head>    
+
+<mj-body width="600px" 
+         css-class="bg-color">
+
+Link para visualização do navegador
+<mj-section>
+    <mj-column>
+    <mj-text mj-class="p-24 txt-small" color="#fff" font-size="12px">
+      Não consegue visualizar esta mensagem? <a href="{{browserlink}}" 
+      rel="noopener noreferrer"
+      target="_blank">Abra no navegador.</a>
+    </mj-text>   
+  </mj-column>
+ </mj-section>
+
+  <mj-section>
+    <mj-column>
+    <mj-image src="./assets/images/logo_playpix.png" width="117px" alt="Logo" />
+    <mj-image src="./assets/images/logo_redhot.png" width="300px" alt="logo-redhot" />
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+  <mj-text padding="8px" color="#ffffff"
+    font-size="24px" 
+    font-weight="700" 
+    line-height="35px"
+    align="center"
+    >Aqueça sua diversão com o <br/>Red Hot Line da Popok Gaming!      
+  </mj-text>  
+
+  <mj-text mj-class="p-24 txt-small"
+    color="#ffffff"
+    font-size="15px" 
+    font-weight="500" 
+    line-height="22px"
+    align="center"
+    >Prepare-se para uma experiência de jogo <br />inigualável com o Red Hot Line 2. 
+  </mj-text>  
+
+   <mj-text mj-class="p-64 txt-small"
+      padding-bottom="40px"
+      padding-top="10px"
+      color="#ffffff"
+      font-size="15px" 
+      font-weight="500" 
+      line-height="22px"
+          >Este jogo de slot dinâmico oferece gráficos impressionantes, bônus
+          generosos e uma jogabilidade emocionante que vai manter você na ponta
+          da cadeira. 
+  </mj-text>        
+
+   <mj-button mj-class="p-64 txt-small" css-class=""
+          background-color="#F48408" color="#ffffff"
+          font-weight="500"
+          line-height="22px" 
+          padding-top="0px"
+          border-radius= "10px"
+            >Cada giro é uma nova chance de ganhar grandes prêmios e descobrir
+            surpresas incríveis!
+         </mj-button>
+    </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-image src="./assets/images/icon_console_game.png" width="68px" alt="icon-game" />
+    <mj-text mj-class="p-24 txt-small"
+    color="#ffffff"
+    font-size="24px" 
+    font-weight="700" 
+    line-height="35px"
+    align="center"
+    >Por que jogar Red Hot Line 2?      
+  </mj-text>  
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-image src="./assets/images/box1.png" padding="5px" width="180px" alt="icon-game" />
+    </mj-column>
+
+    <mj-column>
+    <mj-image src="./assets/images/box2.png" padding="5px" width="180px" alt="icon-game" />
+    </mj-column>
+
+    <mj-column>
+    <mj-image src="./assets/images/box3.png" padding="5px" width="180px" alt="icon-game" />
+    </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column width="200px">
+    <mj-image src="./assets/images/box4.png"  padding="10px" padding-top="20px" width="180px" alt="icon-game" />
+    </mj-column>
+
+    <mj-column>
+    <mj-image src="./assets/images/box5.png" padding="10px" padding-top="20px" width="180px" alt="icon-game" />
+    </mj-column>
+
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-text mj-class="p-64 txt-small"
+      padding-bottom="40px"
+      padding-top="50px"
+      color="#ffffff"
+      font-size="15px" 
+      font-weight="500" 
+      line-height="22px"
+          >O jogo é versátil e se encaixa em várias categorias, incluindo <b>jogos de cassino, jogos de habilidade, jogos rápidos, jogos
+              instantâneos, minijogos</b> e muito mais.
+  </mj-text> 
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-image src="./assets/images/txt.png" align="center" padding="8px"padding-top="20px" width="300px" alt="icon-game" />
+    </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-image src="./assets/images/cta-button.png" padding="15px" align="center" padding-top="20px" width="350px" alt="icon-game" />
+    </mj-column>
+</mj-section>
+
+<mj-section>
+<mj-column mj-class="p-24 txt-small" padding-bottom="1px">
+  <mj-image src="./assets/images/logo_playpix.png" width="135px" alt="Logo" />
+  <mj-text mj-class="p-24 txt-small"
+    color="#ffffff"
+    font-size="18px" 
+    font-weight="500" 
+    line-height="22px"
+    padding-bottom="20px"
+    align="center"
+    >Siga-nos redes sociais!
+  </mj-text>  
+  </mj-column>  
+
+</mj-section>
+
+<mj-section>
+  <mj-column>
+    <mj-image src="./assets/images/social_media.png" align="center" width="117px" alt="icon-game" />
+    <mj-text mj-class="p-24 txt-small"
+    color="#ffffff"
+    font-size="15px" 
+    font-weight="500" 
+    line-height="22px"
+    padding-bottom="20px"
+    align="center"
+    >Nosso suporte está sempre disponível para você.<br />
+            Entre em contato pelo e-mail: 
+            <a href="{{browserlink}}" 
+              rel="noopener noreferrer"
+              target="_blank">suporte@popokgaming.com.</a>
+            
+  </mj-text>  
+
+  <mj-text mj-class="p-24 txt-small"
+    color="#ffffff"
+    font-size="18px" 
+    font-weight="500" 
+    line-height="22px"
+    padding-bottom="20px"
+    align="center"
+    >Jogue com responsabilidade!
+  </mj-text>  
+   </mj-column>
+</mj-section>
+
+<mj-section>
+    <mj-column>
+    <mj-text mj-class="p-24 txt-small" color="#fff" font-size="12px">
+      Se desejar cancelar sua inscrição <br />em nossas comunicações, <a href="{{browserlink}}" 
+      rel="noopener noreferrer"
+      target="_blank">clique aqui</a>
+    </mj-text>   
+  </mj-column>
+ </mj-section>
+
+
+
+
+
+
+ 
+background-width=""
+
+
+   
+  
+</mj-body>
+</mjml>
+
+
+
+
+
+
+

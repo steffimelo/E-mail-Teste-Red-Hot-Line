@@ -1,0 +1,31 @@
+.bg-color {
+    background-color:#170800 ;
+    background: #170800;
+}
+
+.txt-color--white 
+.link-button--white {
+    color: aliceblue;
+}
+
+.txt-color- {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 427px;
+    height: 76px;
+    top: 359px;
+    left: 87.917px;
+    color: #ffffff;
+    font-family: Poppins, var(--default-font-family);
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 39px;
+    text-align: center;
+    z-index: 57;
+    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+  
